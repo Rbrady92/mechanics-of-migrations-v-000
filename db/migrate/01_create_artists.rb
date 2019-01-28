@@ -1,3 +1,3 @@
-class CreateArtists < ActiveRecord::Migration 
-  
+class CreateArtists < ActiveRecord::Migration
+
 end 
